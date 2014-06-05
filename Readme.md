@@ -4,7 +4,7 @@ SumSumSum
 Equipment
 ---------
 - figures with multiplier x1
-- figure with multiplier x2
+- figures with multiplier x2
 - 1 board 6x6 fields
 - 30 random game blocks
 
