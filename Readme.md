@@ -41,13 +41,15 @@ Winning
 Player with the highest score wins.
 
 Example
-     c1    c2    c3    c4    c5    c6
+-------
+```     c1    c2    c3    c4    c5    c6
 r1 | -4  |  2  |  5  | 1x1 | -3  | 2x1 |
 r2 |  1  | 1x2 |  3  | -1  |  5  |  1  |
 r3 | -1  |  5  | -2  | -3  |  0  |  0  |
 r4 |  2  |  0  | 2x1 |  3  | -1  |  2  |
 r5 | -3  |  1  | 2x2 |  4  |  2  | -4  |
 r6 |  4  | -1  |  2  | 1x1 |  4  |  1  |
+```
 
 1x1 - players 1 figure, multiplier x1
 1x2 - players 1 figure, multiplier x2
